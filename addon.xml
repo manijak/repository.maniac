@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<addon id="repository.maniac" name="Maniac's Add-on Repository" version="1.0" provider-name="Maniac">
+	<extension point="xbmc.addon.repository" name="Maniac's Add-on Repository">
+        <info>https://raw.githubusercontent.com/manijak/kodi-maniac-plugins/master/addons.xml</info>
+        <checksum>https://raw.githubusercontent.com/manijak/kodi-maniac-plugins/master/addons.xml.md5</checksum>
+        <datadir zip="true">https://github.com/manijak/kodi-maniac-plugins/raw/master/download/</datadir>
+	</extension>
+	<extension point="xbmc.addon.metadata">
+		<summary>Install Add-ons from Maniac's Repository</summary>
+		<description>Add-ons for Kodi</description>
+		<disclaimer>by Maniac</disclaimer>
+		<platform>all</platform>
+	</extension>
+</addon>
