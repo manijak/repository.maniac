@@ -34,7 +34,7 @@
 
 <addon
   id="skin.aeon.nox.5.maniac"
-  version="5.7.4-2.0"
+  version="5.7.4-2.1"
   name="Aeon Nox 5 - Maniac"
   provider-name="Maniac">
 	<requires>

@@ -5,9 +5,6 @@
 	</requires>
 	<extension point="xbmc.addon.repository" name="Maniac's Add-on Repository">
 		<dir minversion="14.0.0">
-			<!-- <info>https://github.com/manijak/kodi-maniac-plugins/raw/master/addons.xml</info>
-			<checksum>https://github.com/manijak/kodi-maniac-plugins/raw/master/addons.xml.md5</checksum>
-			<datadir zip="true">https://github.com/manijak/kodi-maniac-plugins/raw/master/download/</datadir> -->
 			<info compressed="true">http://github.com/manijak/repository.maniac/raw/master/helix/addons.xml</info>
 			<checksum>http://github.com/manijak/repository.maniac/raw/master/helix/addons.xml.md5</checksum>
 			<datadir zip="true">http://github.com/manijak/repository.maniac/raw/master/helix</datadir>
@@ -19,7 +16,7 @@
 			<datadir zip="true">http://github.com/manijak/repository.maniac/raw/master/isengard</datadir>
 			<hashes>true</hashes>
 		</dir>
-		<dir minversion="15.9.0">
+		<dir minversion="16.0.0">
 			<info compressed="true">http://github.com/manijak/repository.maniac/raw/master/jarvis/addons.xml</info>
 			<checksum>http://github.com/manijak/repository.maniac/raw/master/jarvis/addons.xml.md5</checksum>
 			<datadir zip="true">http://github.com/manijak/repository.maniac/raw/master/jarvis</datadir>
